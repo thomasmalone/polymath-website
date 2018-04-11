@@ -57,7 +57,7 @@
  [ TYPOGRAPHY ]
 
  $font-primary:		'Poppins', 'Open Sans', sans-serif;
- $font-secondary: 'Karla', 'Montserrat', Helvetica, sans-serif;
+ $font-secondary: 'Karla', 'Overpass', Helvetica, sans-serif;
  $font-size: 			14px;
  $line-height: 		30px;
  $font-color:			#777;
@@ -4720,7 +4720,7 @@ a.skewed-underline-light:before, a.skewed-underline-light:after {
 }
 
 .module-trigger .badge {
-	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Overpass", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 10px;
 	font-weight: 700;
 	line-height: 15px;
@@ -10249,7 +10249,7 @@ body.header-over-dark-row.fullpage-nav-style3 #fp-nav ul li .fp-tooltip {
 .main-header--style-elegant .main-nav > li {
 	padding-right: 1.8em;
 	padding-left: 1.8em;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Overpass', sans-serif;
 	text-transform: uppercase;
 	font-size: 12px;
 	line-height: 12px;
